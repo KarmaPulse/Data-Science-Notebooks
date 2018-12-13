@@ -71,8 +71,6 @@ $ jupyter notebook
 
 ## Notebooks
 
-### Linear Regressions
-
-**Source**: (notebooks/Distributions.ipynb)
+- [Linear Regressions](notebooks/Linear_Regression.ipynb)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
